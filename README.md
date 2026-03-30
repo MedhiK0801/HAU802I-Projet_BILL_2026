@@ -1,4 +1,4 @@
-# CyHV-3 BILL pipeline
+# CyHV-3 BILL pipeline : SNP variants analysis
 
 ## Purpose of the project
 
