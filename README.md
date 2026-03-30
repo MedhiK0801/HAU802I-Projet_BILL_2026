@@ -2,7 +2,7 @@
 
 ## Purpose of the project
 
-This pipeline was used to analyze **Cyprinid herpesvirus 3 (CyHV-3)** variants from Nanopore sequencing data, with a focus on the comparison between viral populations before and after thermal stress.
+This pipeline was used to analyze **Cyprinid herpesvirus 3 (CyHV-3)** SNP variants from Nanopore sequencing data, with a focus on the comparison between viral populations before and after thermal stress.
 
 The scripts in this repository were used to:
 - merge and clean VCF-related files when needed
